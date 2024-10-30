@@ -1,4 +1,86 @@
+
 {
-  "products": [],
-  "users": []
+  "products": [
+    {
+      "name": "Kohaku Lilac",
+      "price": 300,
+      "description": "Hello teacher. My name is Cong. I am 20 years old. I come from Thanh Hoa",
+      "image": "https://cdn.shopify.com/s/files/1/0061/5687/7924/files/03L_KHK_0985_F1_1024x1024.jpg?v=1679896085",
+      "images": [
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_01_720x.jpg?v=1681289719",
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_02_720x.jpg?v=1681289719",
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_03_720x.jpg?v=1681289719"
+      ],
+      "category": "Layout 65%",
+      "id": "3"
+    },
+    {
+      "name": "Kohaku Lilac",
+      "price": 300,
+      "description": "Kohaku",
+      "image": "https://cdn.shopify.com/s/files/1/0061/5687/7924/files/03L_KHK_0985_F1_1024x1024.jpg?v=1679896085",
+      "images": [
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_01_720x.jpg?v=1681289719",
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_02_720x.jpg?v=1681289719",
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_03_720x.jpg?v=1681289719"
+      ],
+      "category": "Layout 65%",
+      "id": "3"
+    },
+    {
+      "name": "Kohaku Lilac",
+      "price": 300,
+      "description": "Kohaku",
+      "image": "https://cdn.shopify.com/s/files/1/0061/5687/7924/files/03L_KHK_0985_F1_1024x1024.jpg?v=1679896085",
+      "images": [
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_01_720x.jpg?v=1681289719",
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_02_720x.jpg?v=1681289719",
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_03_720x.jpg?v=1681289719"
+      ],
+      "category": "Layout 65%",
+      "id": "3"
+    },
+    {
+      "name": "Kohaku Lilac",
+      "price": 300,
+      "description": "Kohaku",
+      "image": "https://cdn.shopify.com/s/files/1/0061/5687/7924/files/03L_KHK_0985_F1_1024x1024.jpg?v=1679896085",
+      "images": [
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_01_720x.jpg?v=1681289719",
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_02_720x.jpg?v=1681289719",
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_03_720x.jpg?v=1681289719"
+      ],
+      "category": "Layout 65%",
+      "id": "3"
+    },
+    {
+      "name": "Kohaku Lilac",
+      "price": 300,
+      "description": "Kohaku",
+      "image": "https://cdn.shopify.com/s/files/1/0061/5687/7924/files/03L_KHK_0985_F1_1024x1024.jpg?v=1679896085",
+      "images": [
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_01_720x.jpg?v=1681289719",
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_02_720x.jpg?v=1681289719",
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_03_720x.jpg?v=1681289719"
+      ],
+      "category": "Layout 65%",
+      "id": "3"
+    },
+    {
+      "name": "Kohaku Lilac",
+      "price": 300,
+      "description": "Kohaku",
+      "image": "https://cdn.shopify.com/s/files/1/0061/5687/7924/files/03L_KHK_0985_F1_1024x1024.jpg?v=1679896085",
+      "images": [
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_01_720x.jpg?v=1681289719",
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_02_720x.jpg?v=1681289719",
+        "https://oblotzky.industries/cdn/shop/products/kohaku_lilac_03_720x.jpg?v=1681289719"
+      ],
+      "category": "Layout 65%",
+      "id": "3"
+    }
+  ],
+  "users": [
+    
+  ]
 }

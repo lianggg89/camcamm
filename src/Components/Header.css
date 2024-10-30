@@ -1,0 +1,13 @@
+/* Header.css */
+.placeholder-custom { /* Căn giữa nội dung input */
+    padding-top: 7px;  /* Padding trên */
+    padding-bottom: 7px; /* Padding dưới */
+    box-sizing: border-box; /* Đảm bảo padding không ảnh hưởng đến kích thước tổng */
+  }
+  
+  .placeholder-custom::placeholder {
+    font-size: 12px; /* Kích thước chữ của placeholder */
+    color: #000; /* Màu chữ của placeholder */
+    line-height: 24px; /* Tạo khoảng cách trên và dưới cho placeholder */
+  }
+  
